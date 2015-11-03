@@ -1,2 +1,2 @@
 ﻿# Poznańska Grupa .NET
-Źródła strony [Poznańskiej Grupy .NET](pgdotnet.github.io)
+Źródła strony [Poznańskiej Grupy .NET](http://pgdotnet.github.io)
