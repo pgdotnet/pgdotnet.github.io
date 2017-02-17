@@ -164,6 +164,18 @@ section.sponsors dl {
 section.sponsors img {
     max-width: 120px;
 }
+section.partners ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+section.partners img {
+    max-width: 120px;
+    margin: 12px;
+}
 
 /* Media Queries */
 /* INTERMEDIATE */
